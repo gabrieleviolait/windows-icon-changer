@@ -1,4 +1,4 @@
-# ChangerIcon Good
+# Windows Icon Changer
 
 Small Windows utility to quickly change icons using a PowerShell script and a simple BAT launcher.
 
@@ -21,16 +21,20 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 
 ```
 
-Notes
+## Notes
 
 This tool is intended for personal use and small desktop customization tasks.
 
-Depending on your Windows configuration, you may need to refresh the icon cache or restart Explorer to see changes.
+Depending on your Windows configuration, you may need to refresh the icon cache or restart Windows Explorer to see the changes.
 
-Disclaimer
+## Disclaimer
 
-Use at your own risk. This project is provided as-is, without warranty. Always test carefully before using it on important files or folders.
+This project is provided as-is, without any warranty.
 
-License
+Use it at your own risk. Before applying changes to important files, folders, or shortcuts, test the tool on non-critical items.
 
-MIT License.
+## License
+
+This project is licensed under the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
