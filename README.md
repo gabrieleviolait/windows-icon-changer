@@ -19,6 +19,8 @@ If Windows blocks PowerShell execution, you may need to run:
 ```powershell
 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 
+```
+
 Notes
 
 This tool is intended for personal use and small desktop customization tasks.
